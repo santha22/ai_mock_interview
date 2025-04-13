@@ -220,12 +220,12 @@ export const dummyInterviews: Interview[] = [
     {
         id: '2',
         userId: 'user1',
-        role: 'Frontend Developer',
-        type: 'Technical',
-        techstack: ['React', 'TypeScript', 'Next.js', 'Tailwind CSS'],
-        level: 'Junior',
-        questions: ['What is React?'],
+        role: 'Full Stack Developer',
+        type: 'Mixed',
+        techstack: ['Node.js', 'Express', 'MongoDB', 'React'],
+        level: 'Senior',
+        questions: ['What is Node.js?'],
         finalized: false,
-        createdAt: '2024-03-15%10:00:00z',
+        createdAt: '2024-03-14%10:30:00z',
     },
 ]
